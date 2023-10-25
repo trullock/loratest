@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Tx",
+			"path": "Tx"
+		},
+		{
+			"path": "Rx"
+		}
+	],
+	"settings": {}
+}
